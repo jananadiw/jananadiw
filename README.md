@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Jananadi. You can call me CJ. I'm a front-end focused full-stack software engineer. I love creating beautiful & engaging products for everyone. 
+I'm Jananadi. You can call me CJ. I'm a front-end focused full-stack software engineer. I love creating clean & engaging products for everyone. 
 
 - 🔭 I’m currently working on finding my next role while developing [LinkMap](https://linkmap.app/), an application designed to manage and nurture connections.
 - 🌱 I’m currently learning Python, Machine Learning, and AI.

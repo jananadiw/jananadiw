@@ -7,6 +7,6 @@ I'm Jananadi. I'm a full-stack software engineer. I love creating clean, beautif
 - 📄 [Read CV](https://read.cv/jananadi)
 - 🤔 Would appreciate help finding my next opportunity, startups, or product design.
 - 💬 Being a digital nomad.
-- 📫 Reach me at: [jananadi.me](https://www.jananadi.me/)
+- 📫 Reach me at: [jananadiw.com](https://www.jananadiw.com/)
 - 🎨 I sometimes draw. Check out my art [here](https://canvasconfetti.art/).
 - 👩🏻‍💻 Writing about dev stuff [here](https://dev.to/jnanadiw) 

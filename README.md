@@ -1,9 +1,12 @@
-## Hi there!
-I'm Jananadi. I'm a full-stack software engineer. I love creating clean, beautiful & engaging products for everyone. 
+# Hi, I'm **Jananadi**  
+Full-stack SWE based in San Francisco, tinkering with tech & design
 
-- 🔭 I’m currently building [LinkMap](https://linkmap.app/), an application designed to nurture professional connections, pivoting in to live event networking
-- 🌱 Learning AI with https://academy.langchain.com/.
-- 👯 Looking to collaborate on any fun projects.
-- 📫 Reach me at: [jananadiw.com](https://www.jananadiw.com/)
-- 🎨 I sometimes draw. Check out my art [here](https://canvasconfetti.art/).
-- 👩🏻‍💻 Writing about dev stuff [here](https://dev.to/jnanadiw) 
+- 🔭 **Currently building** [LinkMap](https://linkmap.app/) - platform to nurture professional connections (pivoting to live event networking)
+- 🌱 **Learning** product thinking + UI/UX through hands-on projects
+- 👩🏻‍💻 **Recent projects:**
+  - 🧟‍♀️ [SpineSpy](https://github.com/jananadiw/spinespy) - posture monitor for focused deep work
+  - 💁🏻‍♀️ [Portfolio GPT](https://readme-terminal-nine.vercel.app/) - AI-powered terminal-style dev portfolio
+  - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my drawings
+  - 🤝🏼 [sixdegrees](https://poc-six-degrees.vercel.app/) - find best people to meet at events
+  - 🗺️ [adventures](https://adventures-cyan.vercel.app/) - world map for notes + photos
+- ✍️ **Writing** about dev, building, experiments: [jananadiw.com/blog](https://www.jananadiw.com/blog)

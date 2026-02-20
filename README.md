@@ -1,4 +1,4 @@
-# Hi, I'm **Jananadi**  
+## Hi, I'm **Jananadi**  
 Full-stack SWE based in San Francisco, tinkering with tech & design
 
 - 🔭 **Currently building** [LinkMap](https://linkmap.app/) - platform to nurture professional connections (pivoting to live event networking)

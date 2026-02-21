@@ -9,4 +9,5 @@ Full-stack SWE based in San Francisco, tinkering with tech & design
   - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my drawings
   - 🤝🏼 [sixdegrees](https://poc-six-degrees.vercel.app/) - find best people to meet at events
   - 🗺️ [adventures](https://adventures-cyan.vercel.app/) - world map for notes + photos
+  - 🙈 [portfolio](https://www.jananadiw.com/)
 - ✍️ **Writing** about dev, building, experiments: [jananadiw.com/blog](https://www.jananadiw.com/blog)

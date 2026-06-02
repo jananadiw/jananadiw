@@ -5,7 +5,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 **Working on**
 
 - 🧑🏻‍🍳 **Now** Building [Kairo](https://kairo.app/) to find best people to talk to in a live event.
-- 🌚 **Built and failed** [LinkMap](https://linkmap.app/) - platform to nurture professional connections (pivoting to live event networking)
+- 🌚 **Built, currently stealth** [LinkMap](https://linkmap.app/) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**
 - 🌱 AI & ML, AI integrated systems at scale.

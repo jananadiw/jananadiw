@@ -15,7 +15,6 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
   - 🧟‍♀️ [SpineSpy](https://launch-spinespy.vercel.app/) - posture monitor for focused deep work
   - 💁🏻‍♀️ [Portfolio GPT (Terminal UI)](https://readme-terminal-nine.vercel.app/) - AI-powered terminal-style dev portfolio
   - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my artwork
-  - 🤝🏼 [sixdegrees](https://poc-six-degrees.vercel.app/) - find best people to meet at events
   - 🗺️ [adventures](https://adventures-cyan.vercel.app/) - world map for notes + photos
   - 🙈 [jananadiw.com](https://www.jananadiw.com/) - portfolio website
 

@@ -10,7 +10,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 **Learning**
 - 🌱 AI & ML, AI integrated systems at scale.
 - 🙈 how to show my work.
-- 🎨 all kinds of painting styles.
+- 🎨 to grow in a new continent + art history.
 
 **Projects**
   - 🧟‍♀️ [SpineSpy](https://launch-spinespy.vercel.app/) - posture monitor for focused deep work

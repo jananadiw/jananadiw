@@ -17,7 +17,6 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
   - 💁🏻‍♀️ [Portfolio GPT (Terminal UI)](https://readme-terminal-nine.vercel.app/) - AI-powered terminal-style dev portfolio
   - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my artwork
   - 🗺️ [adventures](https://adventures-cyan.vercel.app/) - world map for notes + photos
-  - 🙈 [jananadiw.com](https://www.jananadiw.com/) - portfolio website
 
 **Writing**
 - ✍️ about dev, building, experiments: [jananadiw.com/blog](https://www.jananadiw.com/blog)

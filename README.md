@@ -15,6 +15,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 **Projects**
   - 🧟‍♀️ [SpineSpy](https://launch-spinespy.vercel.app/) - posture monitor for focused deep work
   - 🅰 [HandWrite](https://github.com/jananadiw/handwrite) - Turning handwritten letters to fonts with vision AI.
+  - 🛠️ [Codex-tldraw MCP server](https://github.com/jananadiw/codex-tldraw-mcp) - Codex MCP server that uses tldraw to draw product workflow diagrams on canvas.
   - 💁🏻‍♀️ [Portfolio GPT (Terminal UI)](https://readme-terminal-nine.vercel.app/) - AI-powered terminal-style dev portfolio
   - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my artwork
   - 🗺️ [adventures](https://adventures-cyan.vercel.app/) - world map for notes + photos

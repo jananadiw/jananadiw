@@ -4,7 +4,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Working on**
 
-- 🧑🏻‍🍳 **Now** Building [Kairo](https://kairo.app/) to find best people to talk to in a live event.
+- 🧑🏻‍🍳 **Now** Building [Kairo](https://poc-six-degrees.vercel.app/) to find best people to talk to in a live event.
 - 🌚 **Built, currently stealth. Demo:** [LinkMap](https://youtu.be/gUCixVLEggI) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**

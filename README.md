@@ -9,7 +9,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Learning**
 - 🌱 AI & ML, AI integrated systems at scale.
-- 🙈 how to show my work.
+- 🙈 how to train my own models.
 - 🎨 to grow in a new continent + art history.
 
 **Projects**

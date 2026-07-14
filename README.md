@@ -4,7 +4,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Working on**
 
-- 🧑🏻‍🍳 **Now** Building [Kairo](https://poc-six-degrees.vercel.app/) to find best people to talk to in a live event.
+- 🧑🏻‍🍳 **Now** Building [HandWrite](https://github.com/jananadiw/handwrite) - Turning handwritten letters to fonts with vision AI.
 - 🌚 **Built, currently stealth. Demo:** [LinkMap](https://youtu.be/gUCixVLEggI) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**
@@ -14,7 +14,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Projects**
   - 🧟‍♀️ [SpineSpy](https://launch-spinespy.vercel.app/) - posture monitor for focused deep work
-  - 🅰 [HandWrite](https://github.com/jananadiw/handwrite) - Turning handwritten letters to fonts with vision AI.
+  - 🤝🏼 [Kairo](https://poc-six-degrees.vercel.app/) to find best people to talk to in a live event.
   - 🛠️ [Codex-tldraw MCP server](https://github.com/jananadiw/codex-tldraw-mcp) - Codex MCP server that uses tldraw to draw product workflow diagrams on canvas.
   - 💁🏻‍♀️ [Portfolio GPT (Terminal UI)](https://www.jananadiw.com/) - AI-powered terminal-style dev portfolio
   - 🎨 [Canvas Confetti](https://canvasconfetti.art/) - showcase of my artwork

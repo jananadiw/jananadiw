@@ -4,7 +4,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Working on**
 
-- 🧑🏻‍🍳 **Now** Building [HandWrite](www.handwrite.studio) - Turning handwritten letters to fonts with vision AI.
+- 🧑🏻‍🍳 **Now** Building [HandWrite](www.handwrite.studio/) - Turning handwritten letters to fonts with vision AI.
 - 🌚 **Built, currently stealth. Demo:** [LinkMap](https://youtu.be/gUCixVLEggI) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**

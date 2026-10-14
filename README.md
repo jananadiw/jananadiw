@@ -4,7 +4,8 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 
 **Working on**
 
-- 🧑🏻‍🍳 **Now** Building [HandWrite](www.handwrite.studio/) - Turning handwritten letters to fonts with vision AI.
+- 🧑🏻‍🍳 **Now** Building [HandWrite](https://www.handwrite.studio/) - Turning handwritten letters to fonts with vision AI.
+- 🦐 [SpineSpy](www.spinespy.com/) - posture monitor for focused deep work
 - 🌚 **Built, currently stealth. Demo:** [LinkMap](https://youtu.be/gUCixVLEggI) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**
@@ -13,7 +14,6 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 - 🎨 to grow in a new continent.
 
 **Projects**
-  - 🧟‍♀️ [SpineSpy](www.spinespy.com/) - posture monitor for focused deep work
   - 🤝🏼 [Kairo](https://poc-six-degrees.vercel.app/) to find best people to talk to in a live event.
   - 🛠️ [Codex-tldraw MCP server](https://github.com/jananadiw/codex-tldraw-mcp) - Codex MCP server that uses tldraw to draw product workflow diagrams on canvas.
   - 💁🏻‍♀️ [Portfolio GPT (Terminal UI)](https://www.jananadiw.com/) - AI-powered terminal-style dev portfolio

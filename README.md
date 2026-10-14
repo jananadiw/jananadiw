@@ -5,7 +5,7 @@ I'm Jananadi, software engineer based in San Francisco. I code, design, build, t
 **Working on**
 
 - 🧑🏻‍🍳 **Now** Building [HandWrite](https://www.handwrite.studio/) - Turning handwritten letters to fonts with vision AI.
-- 🦐 [SpineSpy](www.spinespy.com/) - posture monitor for focused deep work
+- 🦐 [SpineSpy](https://www.spinespy.com/) - posture monitor for focused deep work
 - 🌚 **Built, currently stealth. Demo:** [LinkMap](https://youtu.be/gUCixVLEggI) - platform to nurture professional connections (pivoting to live event networking)
 
 **Learning**
